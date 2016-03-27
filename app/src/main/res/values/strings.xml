@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movies Stage One</string>
+    <string name="popular_movies">Popular Movies</string>
+
+    <string name="top_rated_sort">Top Rated</string>
+    <string name="most_popular_sort">Most Popular</string>
+
+    <string name="no_internet">Looks like there is no internet connection available!</string>
+    <string name="download_fail">Movies data could not be downloaded. Swipe down to refresh and try again.</string>
+    <string name="no_data">There is no data available to display. Please make sure you have a working internet connection.</string>
+    <string name="please_wait">Please wait while data is getting downloaded.</string>
+    <string name="sort_options">Sort</string>
+    <string name="sort_by_rating">Sort by Ratings</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="choose_sort_option">Choose a sorting option</string>
+
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="title">TITLE</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="rating">RATING</string>
+
+
+</resources>
