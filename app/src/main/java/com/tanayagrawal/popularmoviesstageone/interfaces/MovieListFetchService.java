@@ -12,7 +12,8 @@ import retrofit.http.Path;
  */
 public interface MovieListFetchService {
 
-    @GET("3/movie/{listType}?api_key=ed340a56880a3273e5b1c941357d7def")
+
+    @GET("3/movie/{listType}?api_key=INSERT_YOUR_API_KEY_HERE")
     Call<Results> fetchMovies(@Path("listType") String listType);
 
 }
