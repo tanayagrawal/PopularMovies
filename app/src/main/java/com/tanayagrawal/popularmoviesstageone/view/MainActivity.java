@@ -66,10 +66,6 @@ public class MainActivity extends AppCompatActivity {
     private Dialog dialog;
     private TypefaceUtils mTypefaceUtils;
 
-    /**
-     * Insert your API Key below
-     */
-    private String API_KEY = "ed340a56880a3273e5b1c941357d7def";
     private String baseImageURL = "http://image.tmdb.org/t/p/w185/";
 
     @Override
