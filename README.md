@@ -1,4 +1,4 @@
-# PopularMoviesStageOne
+# PopularMovies
 Android Nanodegree by Udacity - Project One
 
 To use this project : 
